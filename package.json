@@ -1,5 +1,5 @@
 {
-  "name": "@ricco-douro/wasockets",
+  "name": "wasockets",
   "version": "2.7.0",
   "description": "WhatsApp API",
   "keywords": [
